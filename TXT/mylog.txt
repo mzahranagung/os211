@@ -18,4 +18,8 @@ ZCZC W01 10 L13 Assignment #3
 ZCZC W01 10 L14 Assignment #4
 ZCZC W01 10 L15 Assignment #5
 ZCZC W01 20 L16 Assignment #6
+ZCZC W01 60 L17 Assignment #7
+ZCZC W01 20 L18 Assignment #8
+ZCZC W01 30 L21 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 30 L22 YouTube: study, etc.
 
