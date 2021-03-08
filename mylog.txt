@@ -1,0 +1,34 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode https://osp4diss.vslm.org/ETC/logCodes.txt
+
+# Week 00
+ZCZC W00 10 L03 GitHub related
+
+# Week 01
+ZCZC W01 10 L00 General Log
+ZCZC W01 10 L01 Scele related
+ZCZC W01 120 L02 ZOOM related
+ZCZC W01 30 L03 Github related
+ZCZC W01 60 L05 GSGS related
+ZCZC W01 20 L06 Reading OSC10
+ZCZC W01 10 L11 Assignment #1
+ZCZC W01 30 L12 Assignment #2
+ZCZC W01 10 L13 Assignment #3
+ZCZC W01 10 L14 Assignment #4
+ZCZC W01 10 L15 Assignment #5
+ZCZC W01 20 L16 Assignment #6
+ZCZC W01 60 L17 Assignment #7
+ZCZC W01 20 L18 Assignment #8
+ZCZC W01 30 L21 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 30 L22 YouTube: study, etc.
+
+# Week 02
+ZCZC W02 10 L00 General Log
+ZCZC W02 10 L01 Scele Related
+ZCZC W02 120 L02 ZOOM Related
+ZCZC W02 10 L03 Github Related
+ZCZC W02 60 L05 GSGS Related
+ZCZC W02 20 L06 Reading References/Books/Documents
+ZCZC W02 30 L10 Assignment Week 02
+ZCZC W02 30 L22 YouTube: study, etc.
