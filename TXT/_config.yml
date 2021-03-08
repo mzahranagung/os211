@@ -1,0 +1,14 @@
+title: "Operating Systems 2021-1 (OS211)"
+description: "Hello!"
+google_analytics: "UA-89852122-6"
+author: "Muhammad Zahran Agung Dewantoro"
+address: "Jakarta"
+sitemap: "true"
+plugins:
+      - jekyll-sitemap
+      - jekyll-seo-tag
+urlweb: "https://mzahranagung.github.io/os211/"
+urlgithub: "https://github.com/mzahranagung/os211"
+urlghpage: "https://mzahranagung.github.io/os211/"
+keywords: "jekyll, testing"
+github: [metadata]
