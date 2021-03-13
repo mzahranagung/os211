@@ -10,7 +10,7 @@ ZCZC W01 10 L00 General log
 ZCZC W01 10 L01 Scele related
 ZCZC W01 120 L02 ZOOM
 ZCZC W01 30 L03 Github related
-ZCZC W01 60 L05 GSGS related
+ZCZC W01 90 L05 GSGS related
 ZCZC W01 20 L06 Reading OSC10
 ZCZC W01 10 L11 Assignment #1
 ZCZC W01 30 L12 Assignment #2
