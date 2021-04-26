@@ -58,3 +58,11 @@ ZCZC W06 90 L05 GSGS related
 ZCZC W06 20 L06 Reading OSC10
 ZCZC W06 60 L10 Assignemnt (General)
 ZCZC W06 30 L22 YouTube: study, etc.
+ZCZC W07 10 L00 General log
+ZCZC W07 10 L01 Scele related
+ZCZC W07 120 L02 ZOOM
+ZCZC W07 30 L03 Github related
+ZCZC W07 90 L05 GSGS related
+ZCZC W07 20 L06 Reading OSC10
+ZCZC W07 60 L10 Assignemnt (General)
+ZCZC W07 30 L22 YouTube: study, etc.
