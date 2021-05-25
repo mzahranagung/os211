@@ -82,3 +82,11 @@ ZCZC W09 120 L05 GSGS related
 ZCZC W09 30 L06 Reading OSC10
 ZCZC W09 300 L10 Assignemnt (General)
 ZCZC W09 60 L22 YouTube: study, etc.
+ZCZC W10 20 L00 General log
+ZCZC W10 60 L01 Scele related
+ZCZC W10 120 L02 ZOOM
+ZCZC W10 120 L03 Github related
+ZCZC W10 120 L05 GSGS related
+ZCZC W10 30 L06 Reading OSC10
+ZCZC W10 900 L10 Assignemnt (General)
+ZCZC W10 60 L22 YouTube: study, etc.
